@@ -20,6 +20,6 @@ Hello, It is a university project of computer network course course.
 * Question
 * Network topology diagram with proper labels (will be uploaded)
 * The configuration commands of all the routers that you have implemented. 
-* VLSM tree (will be uploaded)
+* VLSM tree
 * IP address table (will be uploaded)
 
