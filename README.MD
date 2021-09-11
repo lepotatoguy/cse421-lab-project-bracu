@@ -1,6 +1,6 @@
 # CSE421 Project BRACU
 
-It is a university project of computer network course course. 
+It is a university project of computer network course. 
 
 ### Group Members:
 [Joyanta J. Mondal](https://joyantamondal.com/)
